@@ -3,7 +3,7 @@
  - Este é um projeto que mostra informações sobre a pontuação de pilotos de Fórmula 1 ao redor do mundo.
 
 
-### O projeto inclui diferentes gráficos: 
+### 📊 O projeto inclui diferentes gráficos: 
 
  #### 1️⃣ Pontos por países da América
  #### 2️⃣ Pilotos que mais pontuaram no mundo  
@@ -32,7 +32,7 @@ O quarto gráfico mostra as equipes  que mais ganharam corridas na história da 
 ![Equipes que mais venceram](https://github.com/poporybr/Projeto-em-Grupo-M4/blob/main/imgsGraficos/ScuderiaVictorious.png?raw=true)
 
 _______________________________________________________________________________________________________________________________________________________________________
-### Consultas:  
+### 🔍 Consultas:  
 ``SELECT * FROM drivers``  
 `` LIMIT 10 ;``  
 
