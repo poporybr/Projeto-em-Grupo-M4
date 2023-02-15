@@ -5,10 +5,11 @@
 
 ### O projeto inclui diferentes gráficos: 
 
- #### 1️⃣ Pontos por país da América
+ #### 1️⃣ Pontos por países da América
  #### 2️⃣ Pilotos que mais pontuaram no mundo  
  #### 3️⃣ Pilotos que mais ganharam  
  #### 4️⃣ Equipes que mais venceram
+
 
  ### 🌎 Pontos por país da América
 O primeiro gráfico mostra a pontuação de cada país da América que participa da Fórmula 1.   
