@@ -1,6 +1,6 @@
 ### 🏎️ 🏁 FÓRMULA 1 🏁 🏎️
  - Nesse projeto o nosso squad montou um dashboard com base no conjunto de dados da Fórmula 1 , a fim de realizar uma apresentação com a exploração dos dados.  
- - 🎯 Este é um projeto que mostra informações sobre a pontuação de pilotos de Fórmula 1 ao redor do mundo.
+ - Este é um projeto que mostra informações sobre a pontuação de pilotos de Fórmula 1 ao redor do mundo.
 
 
 ### O projeto inclui diferentes gráficos: 
