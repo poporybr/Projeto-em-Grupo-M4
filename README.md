@@ -16,13 +16,10 @@ O primeiro gráfico mostra a pontuação de cada país da América que participa
 
 ![Pontos por país](https://github.com/poporybr/Projeto-em-Grupo-M4/blob/main/imgsGraficos/pointsPerCountry.png?raw=true)  
 
-
-
 ### 🏆 Pilotos que mais pontuaram no mundo  
 O segundo gráfico mostra os pilotos que mais pontuaram na história da Fórmula 1.  
 
 ![Pilotos que mais pontuaram em toda a história da Fórmula 1](https://github.com/poporybr/Projeto-em-Grupo-M4/blob/main/imgsGraficos/pilotosqueMaisPontuarammundo.png?raw=true)  
-
 
 ### 🥇 Pilotos que mais ganharam
 O terceiro gráfico mostra os pilotos que mais ganharam corridas na história da Fórmula 1.   
@@ -33,4 +30,16 @@ O terceiro gráfico mostra os pilotos que mais ganharam corridas na história da
 O quarto gráfico mostra as equipes  que mais ganharam corridas na história da Fórmula 1.   
 
 ![Equipes que mais venceram](https://github.com/poporybr/Projeto-em-Grupo-M4/blob/main/imgsGraficos/ScuderiaVictorious.png?raw=true)
+
+_______________________________________________________________________________________________________________________________________________________________________
+### Consultas:  
+``SELECT * FROM drivers``  
+`` LIMIT 10 ;``  
+
+![Informações dos 10 primeiros pilotos](https://github.com/poporybr/Projeto-em-Grupo-M4/blob/main/imgsBancoDeDados/infoDrivers.png?raw=true)
+
+``SELECT * FROM drivers ``  
+``WHERE nationality = 'Brazilian';``  
+
+![Todos os pilotos brasileiros](https://github.com/poporybr/Projeto-em-Grupo-M4/blob/main/imgsBancoDeDados/infoDriversBrazilians.png?raw=true)
 
