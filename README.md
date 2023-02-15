@@ -1,6 +1,14 @@
 ### 🏎️ 🏁 FÓRMULA 1 🏁 🏎️
  - Nesse projeto o nosso squad montou um dashboard com base no conjunto de dados da Fórmula 1 , a fim de realizar uma apresentação com a exploração dos dados.  
  - Este é um projeto que mostra informações sobre a pontuação de pilotos de Fórmula 1 ao redor do mundo.
+ ### 🤖 Tecnologias utilizadas:
+ <p>
+ <img align="center"  height="50" width="auto" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
+ <img align="center"  height="50" width="auto" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png">
+  <img align="center"  height="50" width="auto" src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo-thumbnail.png">
+</p>  
+
+___________________________________________________________________________________________________________________________________________________________________
 
 
 ### 📊 O projeto inclui diferentes gráficos: 
