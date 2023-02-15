@@ -9,9 +9,9 @@
  #### 2️⃣ Pilotos que mais pontuaram no mundo  
  #### 3️⃣ Pilotos que mais ganharam  
  #### 4️⃣ Equipes que mais venceram
+_______________________________________________________________________________________________________________________________________________________________________
 
-
- ### 🌎 Pontos por país da América
+ ### 🌎 Pontos por países da América
 O primeiro gráfico mostra a pontuação de cada país da América que participa da Fórmula 1.   
 
 ![Pontos por país](https://github.com/poporybr/Projeto-em-Grupo-M4/blob/main/imgsGraficos/pointsPerCountry.png?raw=true)  
